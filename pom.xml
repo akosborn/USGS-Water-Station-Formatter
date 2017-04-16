@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.akosborn</groupId>
-    <artifactId>USGS Water Station Formatter</artifactId>
+    <artifactId>USGS-Water-Station-Formatter</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
